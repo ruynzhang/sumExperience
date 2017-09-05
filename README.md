@@ -3,7 +3,7 @@
 
 1，下拉分页加载
 
- ![paginationImg](https://github.com/ruynzhang/sumExperience/edit/master/readMeImg/pagination1.png)
+ ![paginationImg](https://github.com/ruynzhang/sumExperience/tree/master/readMeImg/pagination1.png)
  
  使用mint-ui的InfiniteScroll,Spinner分页加载
  
